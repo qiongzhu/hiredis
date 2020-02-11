@@ -34,3 +34,22 @@ EXPORTS
 	redisvCommand
 	redisvFormatCommand
 	freeReplyObject
+	redisAsyncCommand
+	redisAsyncCommandArgv
+	redisAsyncConnect
+	redisAsyncConnectBind
+	redisAsyncConnectBindWithReuse
+	redisAsyncConnectUnix
+	redisAsyncConnectWithOptions
+	redisAsyncDisconnect
+	redisAsyncFormattedCommand
+	redisAsyncFree
+	redisAsyncHandleRead
+	redisAsyncHandleTimeout
+	redisAsyncHandleWrite
+	redisAsyncRead
+	redisAsyncSetConnectCallback
+	redisAsyncSetDisconnectCallback
+	redisAsyncSetTimeout
+	redisAsyncWrite
+	redisvAsyncCommand
